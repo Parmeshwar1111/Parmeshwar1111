@@ -7,7 +7,7 @@
 
 ## 🔧 Tech Stack
 - HTML, CSS, JavaScript  
-- React, Node.js  
+- React, java,Spring Boot
 - MySQL, Firebase  
 - Git & GitHub  
 

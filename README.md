@@ -10,7 +10,7 @@
 - React, java,Spring Boot
 - MySQL, Firebase  
 - Git & GitHub  
-
+ 
 ## 📌 Projects
 - 🎥 Ai trip planner
 - 🌾 FarmConnect (Smart Farming App)  

@@ -11,7 +11,7 @@
 - MySQL, Firebase  
 - Git & GitHub  
  
-## 📌 Projects
+## 📌 Projects 
 - 🎥 Ai trip planner
 - 🌾 FarmConnect (Smart Farming App)  
 - 🎮 Ai resume builder

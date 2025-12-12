@@ -6,7 +6,7 @@
 📧 Contact: parmeshwarwakde1@gmail.com  
 
 ## 🔧 Tech Stack
-- HTML, CSS, JavaScript   
+- HTML, CSS, JavaScript    
 - React, java,Spring Boot
 - MySQL, Firebase  
 - Git & GitHub  

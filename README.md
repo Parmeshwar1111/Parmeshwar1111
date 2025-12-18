@@ -11,7 +11,7 @@
 **Frontend Developer | JavaScript & React Enthusiast | Aspiring Full-Stack Engineer**  
 📍Mumbai, Maharashtra 
 
----
+--- 
 
 ## 🎯 Career Objective
 Motivated Computer Science graduate and frontend developer with hands-on experience in **React.js, JavaScript, HTML, CSS, and backend fundamentals**. Passionate about building **real-world web applications**, improving user experience, and continuously learning modern technologies to grow as a **full-stack software engineer**.

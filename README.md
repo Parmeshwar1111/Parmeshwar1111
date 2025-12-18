@@ -3,10 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Parmeshwar-Wakde&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parmeshwar-Wakde&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+
 
 ---
 

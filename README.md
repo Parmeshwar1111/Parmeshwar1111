@@ -9,7 +9,7 @@
 
 ## 👋 Hi, I'm Parmeshwar Wakde  
 **Frontend Developer | JavaScript & React Enthusiast | Aspiring Full-Stack Engineer**  
-📍 India
+📍Mumbai, Maharashtra 
 
 ---
 
@@ -19,7 +19,6 @@ Motivated Computer Science graduate and frontend developer with hands-on experie
 ---
 
 ## 🏆 Achievements
-- ✅ Completed **Web Development Internship** at **Prodigy Infotech**
 - ✅ Built multiple **real-world projects** including Resume Builder, Portfolio Website, and Dashboards
 - ✅ Preparing for **MNC placements (TCS, Accenture, Deloitte, Cognizant)**
 - ✅ Strong foundation in **DSA, SQL, and JavaScript interview concepts**
@@ -44,19 +43,20 @@ Motivated Computer Science graduate and frontend developer with hands-on experie
 - Git & GitHub  
 - Postman  
 - VS Code  
-- Puppeteer (HTML → PDF generation)  
+-  Eclipse  
 - REST APIs
+-  VSCode 
 
 ---
 
 ## 🌟 Major Projects
 
-### 🔹 AI Resume Builder (React + Node.js)
+### 🔹 AI Resume Builder (React +Spring Boot+ Node.js)
 - Dynamic resume creation with live preview  
 - HTML-to-PDF conversion using **Puppeteer**  
 - Multiple resume templates with responsive layout  
-- Technologies: React, Express.js, Puppeteer, Tailwind CSS  
-
+- Technologies: React, Express.js, Puppeteer, Tailwind CSS , java ,Spring Boot
+  
 ### 🔹 Portfolio Website (React)
 - Fully responsive personal portfolio  
 - Dark/Light mode toggle  
@@ -68,10 +68,10 @@ Motivated Computer Science graduate and frontend developer with hands-on experie
 - MVC architecture using **JSP & Servlets**  
 - Database: MySQL  
 
-### 🔹 FarmConnect (Major Project – MERN + ML)
-- Smart farming assistant web application  
-- Crop recommendation & disease prediction  
-- Integrated ML models for yield prediction  
+### 🔹  AI Trip Planner ( React.js, TailwindCSS | Firebase |Google Gemini AI, Unsplash API | React OAuth)
+- Developed an AI-powered travel planning website  
+- personalized trip itineraries based on location, budget, number of days  
+-  Firebase handles authentication (via Google OAuth) and data storage 
 
 ---
 
@@ -83,17 +83,16 @@ Motivated Computer Science graduate and frontend developer with hands-on experie
 ---
 
 ## 📜 Certifications
-- ✔ Web Development Internship – Prodigy Infotech  
 - ✔ Data Analytics Virtual Experience – Deloitte (Forage)  
-- ✔ SQL & Database Management – Self Practiced  
-- ✔ JavaScript & React – Hands-on Projects  
+- ✔ Responsive Web Design - Freecodecamp  
+- ✔  HackerRank react (basic)  
 
 ---
 
 ## 🤝 Connect with Me
-- 💼 **LinkedIn:** https://linkedin.com/in/your-profile  
-- 🧑‍💻 **GitHub:** https://github.com/Parmeshwar-Wakde  
-- 📧 **Email:** your-email@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/parmeshwar-wakde-67a489271/
+- 🧑‍💻 **GitHub:**   https://github.com/Parmeshwar1111
+- 📧 **Email:** Parmeshwarwakde1@gmail.com
 
 ---
 

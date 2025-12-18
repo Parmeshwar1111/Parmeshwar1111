@@ -4,6 +4,10 @@
 🚀 Building interactive websites & modern UI  
 🌱 Currently learning: Java, DSA, MySQL  
 📧 Contact: parmeshwarwakde1@gmail.com  
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Parmeshwar-Wakde&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ## 🔧 Tech Stack
 - HTML, CSS, JavaScript    
